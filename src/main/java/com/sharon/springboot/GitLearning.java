@@ -10,6 +10,6 @@ public class GitLearning {
     @GetMapping("/message")
     public String message()
     {
-        return "This is git learning revision + !!";
+        return "this is git learning revision !!";
     }
 }
